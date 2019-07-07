@@ -1,0 +1,28 @@
+[20:33:57] Auth.authorizedGet() [INFO]: Session expired, attempting to reauthenticate
+[20:33:58] Auth.authorizedGet() [INFO]: Session expired, attempting to reauthenticate
+[20:33:59] Auth.authorizedGet() [INFO]: Session expired, attempting to reauthenticate
+[20:34:00] Auth.authorizedGet() [INFO]: Session expired, attempting to reauthenticate
+[20:34:00] Auth.authorizedGet() [INFO]: Session expired, attempting to reauthenticate
+[20:34:01] Auth.authorizedGet() [INFO]: Session expired, attempting to reauthenticate
+[20:34:01] Auth.authorizedGet() [INFO]: Session expired, attempting to reauthenticate
+[20:34:02] Auth.authorizedGet() [INFO]: Session expired, attempting to reauthenticate
+[20:34:02] Auth.<init>() [ERROR]: Failed to retrieve session token with the given credentials
+[20:34:03] Auth.<init>() [ERROR]: Failed to retrieve session token with the given credentials
+[20:34:04] Auth.<init>() [ERROR]: Failed to retrieve session token with the given credentials
+[20:34:04] Auth.authorizedGet() [INFO]: Session expired, attempting to reauthenticate
+[20:34:04] Auth.<init>() [ERROR]: Failed to retrieve session token with the given credentials
+[20:34:05] Auth.<init>() [ERROR]: Failed to retrieve session token with the given credentials
+[20:34:06] Auth.<init>() [ERROR]: Failed to retrieve session token with the given credentials
+[20:34:06] Auth.authorizedGet() [INFO]: Session expired, attempting to reauthenticate
+[20:34:07] Auth.<init>() [ERROR]: Failed to retrieve session token with the given credentials
+[20:34:08] Auth.<init>() [ERROR]: Failed to retrieve session token with the given credentials
+[20:34:09] Auth.<init>() [ERROR]: Failed to retrieve session token with the given credentials
+[20:34:09] Auth.authorizedGet() [INFO]: Session expired, attempting to reauthenticate
+[20:34:10] Auth.<init>() [ERROR]: Failed to retrieve session token with the given credentials
+[20:34:11] Auth.<init>() [ERROR]: Failed to retrieve session token with the given credentials
+[20:34:12] Auth.<init>() [ERROR]: Failed to retrieve session token with the given credentials
+[20:34:12] Auth.authorizedGet() [INFO]: Session expired, attempting to reauthenticate
+[20:34:12] Auth.<init>() [ERROR]: Failed to retrieve session token with the given credentials
+[20:34:13] Auth.<init>() [ERROR]: Failed to retrieve session token with the given credentials
+[20:34:14] Auth.<init>() [ERROR]: Failed to retrieve session token with the given credentials
+[20:34:14] Auth.authorizedGet() [INFO]: Session expired, attempting to reauthenticate
